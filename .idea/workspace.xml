@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4231df13-6752-4a89-8503-97dbc4a92a07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collections-framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/collections/NeedForCollectionFramework.java" afterDir="false" />
+    <list default="true" id="4231df13-6752-4a89-8503-97dbc4a92a07" name="Changes" comment="Collections Oct 5th">
+      <change afterPath="$PROJECT_DIR$/src/Rohit/CollectionTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rohit/MyCustomComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rohit/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rohit/ourGenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/collections/interfaces/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/collections/interfaces/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +41,50 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Downloads/studentAnalysis",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CollectionTesting">
+    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.collections.interfaces.CollectionDemo" />
+      <module name="java-collections-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.collections.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rohit.CollectionTesting" />
+      <module name="java-collections-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rohit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.collections.interfaces.ListDemo" />
+      <module name="java-collections-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.collections.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NeedForCollectionFramework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.collections.NeedForCollectionFramework" />
       <module name="java-collections-framework" />
@@ -61,6 +100,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionTesting" />
+        <item itemvalue="Application.ListDemo" />
+        <item itemvalue="Application.CollectionDemo" />
         <item itemvalue="Application.NeedForCollectionFramework" />
       </list>
     </recent_temporary>
@@ -74,7 +116,19 @@
       <option name="presentableId" value="Default" />
       <updated>1696377250688</updated>
     </task>
+    <task id="LOCAL-00001" summary="Collections Oct 5th">
+      <created>1696535410132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696535410133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Collections Oct 5th" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections Oct 5th" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
